@@ -10,8 +10,7 @@ W projekcie utworzono 3 modele:
 
 •	Historia - informacje o zwróconych książkach
 
-Dodatkowo utworzono metody które zmieniają wartości.
-Do soboty postaram się dodać jeszcze więcej pozycji do bazy danych i utworzyć dodatkowy filtr
+
 
 
 
